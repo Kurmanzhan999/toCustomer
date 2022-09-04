@@ -1,0 +1,7 @@
+.radio-select {
+  appearance: none;
+}
+.radio-select:checked + .card,
+.radio-select:checked + .card .card_header {
+  border-color: #4486fb;
+}
